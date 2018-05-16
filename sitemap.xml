@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://905games.tk/index.html</loc>
+    <lastmod>2018-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://905games.tk/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://905games.tk/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(8%20of%209)2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(2%20of%209)2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/development.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/responsive.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(1%20of%209).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/screenshot_20180423-225248.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/snapchat-1507958622.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(4%20of%209).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(9%20of%209).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(3%20of%209).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(7%20of%209).jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
